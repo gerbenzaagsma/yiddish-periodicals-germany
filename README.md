@@ -1,21 +1,26 @@
-# This repository contains a dataset of all known about (Eastern)Yiddish newspapers and periodicals published in Germany.
+# Yiddish Periodicals in Germany.
 
-The list is based upon information from the following libraries:
+This repository contains a dataset of all known about (Eastern)Yiddish newspapers and periodicals published in Germany. The list is based upon information from the following libraries:
+
+United States:
+* Center for Jewish History (CJH)
+* Leo Baeck Institute NY (LBI)
+* YIVO Institute for Jewish Research (YIVO)
+* New York Public Library (NYPL)
+
+Germany
+* Compact Memory (CM)
+* Center for Research on Antisemitism (CRA)
+* Jewish Museum Berlin (JMB)
+* Staatsbibliothek Berlin (STB) 
+* Institut für die Geschichte der deutschen Juden (IGdJ)
+* Humboldt University Berlin (HUB)
+* SUB Hamburg (SUB)
+* Potsdam University (PU)
 
 
-* CJH	Center for Jewish History
-LBI	Leo Baeck Institute NY
-YIVO	YIVO
-CM	Compact Memory
-CRA	Center for Research on Antisemitism
-SHO	Shocken Library
-CZA	Central Zionist Archives
-NYPL	New York Public Library
-JMB	Jewish Museum Berlin
-Stabi	Staatsbibliothek Berlin
-IGdJ	Institut für die Geschichte der deutschen Juden
-HUB	Humboldt University Berlin
-SUB	SUB Hamburg
-PU	Potsdam University
-HJP	Historical Jewish Press
-NLI	National Library of Israel
+Israel:
+* National Library of Israel (NLI)
+* Historical Jewish Press (HJP)
+* Shocken Library (SHO)
+* Central Zionist Archives (CZA)
