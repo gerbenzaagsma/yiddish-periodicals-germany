@@ -1,13 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
+title: Yiddish Periodicals in Germany - V1
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
 type: dataset
-message: "If you use this dataset, please cite it as below."
 authors:
-  - family-names: Zaagsma
-    given-names: Gerben
-    orcid: https://orcid.org/0000-0002-5978-9769
-title: "Yiddish Periodicals in Germany - V1"
-version: 1.0
-doi: 10.5281/zenodo.7640726
-date-released: 2023-02-14
-preferred-citation:
-  type: data
+  - given-names: Gerben
+    family-names: Zaagsma
+    email: gerben.zaagsma@uni.lu
+    orcid: 'https://orcid.org/0000-0002-5978-9769'
+    affiliation: >-
+      Luxembourg Centre for Contemporary and Digital History
+      (C族DH)
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7640726
+repository-code: >-
+  https://github.com/gerbenzaagsma/yiddish-periodicals-germany
+license: CC-BY-NC-SA-4.0
+version: '1.0'
+date-released: '2023-02-14'
