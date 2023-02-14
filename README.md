@@ -5,8 +5,7 @@ This repository contains a dataset of known Yiddish newspapers and periodicals p
 
 
 ## Holding institutions/ online catalogues*:
-_
-(URLs below point directly to the relevant search in the online catalogue. If no link is present the periodical was listed in: Marion Neiss' book [Presse Im Transit](https://www.worldcat.org/nl/title/907612383), but cannot be located in an online catalogue (or no catalogue is present)._
+_(URLs below point directly to the relevant search in the online catalogue. If no link is present the periodical was listed in: Marion Neiss' book [Presse Im Transit](https://www.worldcat.org/nl/title/907612383), but cannot be located in an online catalogue (or no catalogue is present)._
 
 **Germany:**
   * [Compact Memory (CM)](https://sammlungen.ub.uni-frankfurt.de/cm/nav/index/title?&facets=language%3D%22yid%22) 
