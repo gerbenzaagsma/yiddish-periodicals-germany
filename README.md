@@ -1,6 +1,6 @@
 # Yiddish Periodicals in Germany
 
-This repository contains a dataset of all known about (Eastern)Yiddish newspapers and periodicals published in Germany. The list is based upon information from the following libraries:
+This repository contains a dataset of all known about (Eastern)Yiddish newspapers and periodicals published in Germany. The list is based upon cataloguing and holding information from the following libraries:
 
 
 
