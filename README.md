@@ -1,16 +1,10 @@
 # Yiddish Periodicals in Germany
 
-This repository contains a dataset of known Yiddish newspapers and periodicals published in Germany. 
-
-The list is based upon cataloguing and holding information from the libraries and book listed below. The list is provided as an Excel sheet and is a work in progress.
-
-_Notes:_
-- 
-- URLs below point directly to the relevant search in the online catalogue. 
-- If no link is present the periodical was listed in: Marion Neiss' book [Presse Im Transit](https://www.worldcat.org/nl/title/907612383), but cannot be located in an online catalogue (or no catalogue is present).
+This repository contains a dataset of known Yiddish newspapers and periodicals published in Germany. The list is based upon cataloguing and holding information from the libraries and book listed below. The list is provided as an Excel sheet and is a work in progress.
 
 
-_Holding institutions/ online catalogues:_
+
+## Holding institutions/ online catalogues*:
 
 **Germany:**
   * [Compact Memory (CM)](https://sammlungen.ub.uni-frankfurt.de/cm/nav/index/title?&facets=language%3D%22yid%22) 
@@ -34,3 +28,9 @@ _Holding institutions/ online catalogues:_
 * [Historical Jewish Press (HJP)](https://www.nli.org.il/en/newspapers/titles?lang=Yiddish&region=Central%20Europe)
 * Shocken Library (SHO)
 * Central Zionist Archives (CZA)
+
+
+_Note:_
+- URLs above point directly to the relevant search in the online catalogue. 
+- If no link is present the periodical was listed in: Marion Neiss' book [Presse Im Transit](https://www.worldcat.org/nl/title/907612383), but cannot be located in an online catalogue (or no catalogue is present).
+
