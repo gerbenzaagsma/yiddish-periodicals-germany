@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+type: dataset
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: Zaagsma
+    given-names: Gerben
+    orcid: https://orcid.org/0000-0002-5978-9769
+title: "Yiddish Periodicals in Germany - V1"
+version: 1.0
+doi: 10.5281/zenodo.7640726
+date-released: 2023-02-14
+preferred-citation:
+  type: data
