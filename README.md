@@ -10,7 +10,7 @@ _Notes:_
 - If no link is present the periodical was listed in: Marion Neiss' book [Presse Im Transit](https://www.worldcat.org/nl/title/907612383), but cannot be located in an online catalogue (or no catalogue is present).
 
 
-_Holding institutions/ online catalogues_
+_Holding institutions/ online catalogues:_
 
 **Germany:**
   * [Compact Memory (CM)](https://sammlungen.ub.uni-frankfurt.de/cm/nav/index/title?&facets=language%3D%22yid%22) 
