@@ -31,3 +31,5 @@ _(URLs below point directly to the relevant search in the online catalogue. If n
 * Central Zionist Archives (CZA)
 
 
+### How to cite
+Gerben Zaagsma. “Gerbenzaagsma/yiddish-periodicals-germany: Yiddish Periodicals in Germany - V1”. Zenodo, February 14, 2023. https://doi.org/10.5281/zenodo.7640726.
