@@ -1,9 +1,12 @@
 # Yiddish Periodicals in Germany
 
-This repository contains a dataset of all known about (Eastern)Yiddish newspapers and periodicals published in Germany. The list is based upon cataloguing and holding information from the libraries listed below. 
+This repository contains a dataset of known Yiddish newspapers and periodicals published in Germany. 
 
-Notes:
-- URLs point directly to the relevant search in the online catalogue. 
+The list is based upon cataloguing and holding information from the libraries and book listed below. This list is a work in progress.
+
+_Notes:_
+- 
+- URLs below point directly to the relevant search in the online catalogue. 
 - If no link is present the periodical was listed in: Marion Neiss' book [Presse Im Transit](https://www.worldcat.org/nl/title/907612383), but cannot be located in an online catalogue (or no catalogue is present).
 
 
