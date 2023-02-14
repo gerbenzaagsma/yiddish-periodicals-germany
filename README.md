@@ -22,7 +22,7 @@ This repository contains a dataset of all known about (Eastern)Yiddish newspaper
 * [New York Public Library (NYPL)](https://www.nypl.org/research/research-catalog/search?q=&subject=Germany,%20Periodicals&filters[language][0]=lang%3Ayid)
 
 **Israel:**
-* National Library of Israel (NLI)
-* Historical Jewish Press (HJP)
+* [National Library of Israel (NLI)](https://merhav.nli.org.il/primo-explore/search?query=sub,contains,Germany,AND&pfilter=lang,exact,yid,AND&tab=default_tab&search_scope=Local&vid=NLI&mfacet=rtype,include,periodical,1&lang=en_US&mode=advanced&offset=0&fromRedirectFilter=true)
+* [Historical Jewish Press (HJP)](https://www.nli.org.il/en/newspapers/titles?lang=Yiddish&region=Central%20Europe)
 * Shocken Library (SHO)
 * Central Zionist Archives (CZA)
