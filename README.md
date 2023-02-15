@@ -1,6 +1,6 @@
 # Yiddish Periodicals in Germany
 
-This repository contains a dataset of known Yiddish newspapers and periodicals published in Germany. The list is based upon cataloguing and holding information from the libraries and book listed below. The list is provided as an Excel sheet and is a work in progress. Currently it contains 227 items, 21 of which are available in digitised form.
+This repository contains a dataset of known historical Yiddish newspapers and periodicals published in Germany. The list is based upon cataloguing and holding information from the libraries and book listed below. The list is provided as an Excel sheet and is a work in progress. Currently it contains 227 items, 21 of which are available in digitised form.
 
 
 
