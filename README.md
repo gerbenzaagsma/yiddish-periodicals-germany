@@ -2,7 +2,7 @@
 
 This repository contains a dataset of known historical Yiddish newspapers and periodicals published in Germany. The list is based upon cataloguing and holding information from the libraries and book listed below. The list is provided as an Excel sheet and is a work in progress. 
 
-Currently the list contains 227 items, 21 of which are available in digitised form. URLs for the digitised periodicals are provided; the list also provides holding locations for the other periodicals but no direct links (yet) to their online catalog records. 
+Currently the list contains 227 items, 21 of which are available in digitised form. URLs for the digitised periodicals are provided; the list also provides holding locations for the other periodicals but no direct links to their online catalog records. 
 
 Any comments and additions are most welcome, please get in touch via: gerben.zaagsma@uni.lu.
 
@@ -36,4 +36,4 @@ _(URLs below point directly to the relevant search in the online catalogue. If n
 
 
 ### How to cite
-Gerben Zaagsma. “Gerbenzaagsma/yiddish-periodicals-germany: Yiddish Periodicals in Germany - V1”. Zenodo, February 14, 2023. https://doi.org/10.5281/zenodo.7640726.
+Gerben Zaagsma. “gerbenzaagsma/yiddish-periodicals-germany: Yiddish Periodicals in Germany - V1”. Zenodo, February 14, 2023. https://doi.org/10.5281/zenodo.7640726.
